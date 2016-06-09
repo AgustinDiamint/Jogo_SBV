@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">Jogo SBV</string>
-    <string name = "game_name">Suporte Básico de Vida</string>
+    <string name="game_name">Suporte Básico de Vida</string>
     <string name="first_bttn">Começar Jogo</string>
     <string name="second_btt">Como Jogar</string>
+    <string name="title_activity_how_to">HowTo</string>
 </resources>
